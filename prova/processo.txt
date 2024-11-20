@@ -1,0 +1,21 @@
+criação do arquivo index
+    incluindo html com duas div para separar titulo e outra div para incluir os botões
+    configurado botões com documentação do bootstrap
+
+Criado banco de dados no MySQL Workbench com o nome crud_php
+C - Create - Criar, inserir
+R - Read - Ler, buscar
+U - Update - alterar, atualizar
+D - Delete - Deletar, excluir
+
+criado config.php arquivo de config para "linkar" com o bd
+
+criado criar_tabelas.php para criar tabelas no bd usando o php *opcional
+
+criado o Insert
+    usa o include 'config.php'; para comunicar com o bd
+    criado pagina php com html usando form's
+    iserido o php para buscar dados pelo metodo post
+    e 
+
+
